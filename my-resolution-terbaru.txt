@@ -1,3 +1,4 @@
 1.menambahkan branch menjadi 2 untuk diedit
 2.melakukan merge menggunakan pull request untuk menambahkan hasil editan branch 1 dan 2 ke main
+3.fork digunakan untuk cloning repository milik orang lain ke github kita, melakukan comit dan melakukan pull request ke pemilik repository
 
