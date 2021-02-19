@@ -2,3 +2,4 @@
 -learning about html css more much
 -learning about javascript basic
 -make a website project portfolio
+-menambah comit
