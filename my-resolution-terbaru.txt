@@ -1,4 +1,5 @@
 1.menambahkan branch menjadi 2 untuk diedit
 2.melakukan merge menggunakan pull request untuk menambahkan hasil editan branch 1 dan 2 ke main
 3.fork digunakan untuk cloning repository milik orang lain ke github kita, melakukan comit dan melakukan pull request ke pemilik repository
+4.melakukan commit git secara lokal masuk ke folder kemudian perintah git init kemudian hubungkan menggunakan bash dan ketikan git add atau git add . utk semua kemudian git commit . " "
 
